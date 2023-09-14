@@ -463,11 +463,19 @@
         },
         "langchain": {
             "hashes": [
-                "sha256:bf0ccaf87139e404e2fd68c5144d5321ac7e5b4354e83a818e4a09edfc7d665f",
-                "sha256:f4ef223fc5783c34bc375ab5544a2b14c8ab5680bb8f0c8175176d1e8e19558c"
+                "sha256:7de80a43dc0adfa60ed70203becf4f9d18439cc25fb00c3fedeb7a00de52b1fe",
+                "sha256:ac50599207a6bf476890382f05bee93eb3e6c8f3b76f5eec6f5d762b67262872"
             ],
             "index": "pypi",
-            "version": "==0.0.152"
+            "version": "==0.0.246"
+        },
+        "langsmith": {
+            "hashes": [
+                "sha256:a20e105329cae9a588414443b0a6eb56c776187e3aab47c327848bae0f1a4377",
+                "sha256:bdfec3664162e672f89f9e4d82cbbd3f32587295d3064aab1746080a873ac3a0"
+            ],
+            "markers": "python_version < '4.0' and python_full_version >= '3.8.1'",
+            "version": "==0.0.37"
         },
         "markupsafe": {
             "hashes": [
